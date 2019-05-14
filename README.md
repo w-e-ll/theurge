@@ -32,7 +32,7 @@ Theurge.com product spider with 2 rules and 6 items
 4. git clone https://github.com/w-e-ll/theurge.git
 5. cd theurge
 6. pip install -r requirements.txt
-7. cd theurge
+7. cd crawlSpider
 8. scrapy crawl test
 
 made by: https://w-e-ll.com
